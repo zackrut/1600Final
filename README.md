@@ -28,9 +28,9 @@ And now in 2022, you can get the same 4 TB hard drive for only $100.. a whopping
 
 Volatile storage is memory that needs to be connected to a power source to be preserved. The most common type is RAM storage, so you should always be aware of this when saving to a local drive. But even non-volatile storage types are susceptible to losing data. Here are some common storage devices and their lifespans:
 
-Magnetic tapes: 10 years
-Floppy disk:	10–20 years
-CDs and DVDs:	5–10 unrecorded, 2–5 recorded
-Flash storage:	5–10 years
+Magnetic tapes: 10 years   
+Floppy disk:	10–20 years   
+CDs and DVDs:	5–10 unrecorded, 2–5 recorded   
+Flash storage:	5–10 years   
  
 Even these common storage devices should be inspected every years to make sure the data isn't lost or corrupted. Just because it exists physically, doesn't mean it will be there forever!
