@@ -7,7 +7,7 @@ The following tutorial on **Digital Storage** will outline the best, most effici
 
 Storage capacities have been increasing as file sizes of all types become larger. Ten years ago, most people only needed about 8-16 GB on their phone/laptop to store all of their files, pictures, videos, music, etc. Nowadays, it's common for people to run out of space on the phone 32-64 GB. If you're using a computer for school or work and are thinking about long term storage, I would consider getting a hard drive with between 128 GB-1 TB.
 
-1 GB = 1000 MB
+1 GB = 1000 MB   
 1 TB = 1000 GB
 
 ### Cost
@@ -16,10 +16,10 @@ The cost of data storage has become extremely affordable compared to where it st
 
 Here's how quickly storage cost decreased after that:
 
-1990- $9/MB
-1995- $0.75/MB
-2000- $0.01/MB
-2005- $0.0006/MB
+1990- $9/MB   
+1995- $0.75/MB   
+2000- $0.01/MB   
+2005- $0.0006/MB   
 
 By 2011 the largest storage device available for purchase was a 4 TB hard drive, and you could get it for only $400!
 And now in 2022, you can get the same 4 TB hard drive for only $100.. a whopping $0.0001 per megabyte!
